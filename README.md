@@ -98,8 +98,3 @@ The traning is logged using tensorbaord and can viewed by running:
 ```
 tensorboard --logdir = runs
 ```
-
-## Future works  
-  - Get results on ImageNet to see how the method scales
-  - Explore KD alongside other orthogonal compression techniques: Pruning/Quantisation 
-  - Explore KD for compressing Object Detection models
